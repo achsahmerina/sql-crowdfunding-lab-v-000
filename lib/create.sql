@@ -7,4 +7,4 @@ CREATE TABLE projects (
   end_date INTEGER
 );
 
-CREATE TABLE users (id INTEGER PRIMARY KEY, name TEXT)
+CREATE TABLE users (id INTEGER PRIMARY KEY, name TEXT, age INTEGER)
