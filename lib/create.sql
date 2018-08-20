@@ -2,6 +2,6 @@ CREATE TABLE projects (
   id INTEGER PRIMARY KEY,
   title TEXT,
   category TEXT,
-  start_date INTEGER
+  funding_goal INTEGER
   end_date INTEGER
 );
