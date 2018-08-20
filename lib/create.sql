@@ -6,3 +6,7 @@ CREATE TABLE projects (
   start_date INTEGER,
   end_date INTEGER
 );
+
+CREATE TABLE users (
+  id INTEGER PRIMARY KEY,
+)
