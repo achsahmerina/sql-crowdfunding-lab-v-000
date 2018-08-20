@@ -3,4 +3,4 @@ CREATE TABLE projects(
   projects text,
   users text,
   pledges integer
-)
+);
