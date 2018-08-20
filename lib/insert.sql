@@ -3,5 +3,4 @@ CREATE TABLE groceries(
   name TEXT,
   quantity INTEGER,
   aisle INTEGER
-
 );
