@@ -1,4 +1,4 @@
-CREATE TABLE groceries (
+CREATE TABLE crowdfunder (
   id INTEGER PRIMARY KEY,
   category TEXT,
   funding goal INTEGER,
